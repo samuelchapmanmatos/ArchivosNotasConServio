@@ -1,0 +1,47 @@
+.nav-item{
+	background-color: #F0F5F7 ;
+	font-weight: bold;
+	color: black;
+	border: solid #949697 1px;
+	font-size: 11px;
+	border-radius: 7px 7px 5px 0px;
+	width: auto;
+}
+.nav-link{
+	padding: 3px;
+	margin: 0px;
+	margin-right: 0rem;
+}
+.card{
+	background-color: #F0F5F7 ;
+}
+.navbar-light{
+	background-color: #789CF5;
+	margin: 0px;
+}
+.nav{
+	border-bottom: solid #949697 1px;
+	margin: 0px;
+}
+li{
+	text-align: center;
+	margin-right: 0px;
+	padding-right: 0px;
+	margin-right: 0rem;
+}
+a{
+	padding-right: 0px;
+	margin-right: 0px;
+}
+.card-body,#tasks{
+	background-color: #F0F5F7 ;
+}
+.col{
+	margin-right: 10px;
+	padding-right: 10px;
+}
+input{
+	margin-right: 300px;
+}
+
+
